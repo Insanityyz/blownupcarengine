@@ -37,7 +37,7 @@
         width: 100%;
         height: 100%;
         color: #F9FAFF;
-        font-family: 'Nunito',Arial,"Helvetica Neue",Helvetica,sans-serif;
+        font-family: 'Nunito', Arial, "Helvetica Neue", Helvetica, sans-serif;
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
@@ -64,5 +64,16 @@
         </svg>
       </div>
     </div>
+    <ModulePrefs>
+  <pref name="title" value="Getaway Shootout Game"/>
+  <pref name="description" value="Play Getaway Shootout, a thrilling multiplayer shooting game."/>
+  <pref name="author" value="Crazy Games"/>
+  <pref name="version" value="1.310"/>
+  <pref name="viewport" value="width=device-width, initial-scale=1"/>
+  <pref name="maxPlayers" value="2"/>
+  <pref name="minPlayers" value="1"/>
+  <pref name="language" value="en"/>
+  <pref name="icon" value="https://example.com/icon.png"/>
+    </ModulePrefs>
   </body>
 </website>
