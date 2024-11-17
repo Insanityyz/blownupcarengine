@@ -55,6 +55,17 @@
       }
     </style>
     <script>window.czyVariables={"countryCode":"US","device":{"os":{"name":"Mac OS","version":"10.15.7"},"browser":{"name":"Chrome","version":"130.0.0.0","major":"130"},"device":{"vendor":"Apple","model":"Macintosh"},"engine":{"name":"Blink","version":"130.0.0.0"}}};window.countryCode='US';window.device={"os":{"name":"Mac OS","version":"10.15.7"},"browser":{"name":"Chrome","version":"130.0.0.0","major":"130"},"device":{"vendor":"Apple","model":"Macintosh"},"engine":{"name":"Blink","version":"130.0.0.0"}}</script>
+    <ModulePrefs>
+      <pref name="title" value="Getaway Shootout Game"/>
+      <pref name="description" value="Play Getaway Shootout, a thrilling multiplayer shooting game."/>
+      <pref name="author" value="Crazy Games"/>
+      <pref name="version" value="1.310"/>
+      <pref name="viewport" value="width=device-width, initial-scale=1"/>
+      <pref name="maxPlayers" value="2"/>
+      <pref name="minPlayers" value="1"/>
+      <pref name="language" value="en"/>
+      <pref name="icon" value="https://example.com/icon.png"/>
+    </ModulePrefs>
   </head>
   <body>
     <div class="ziggyLoader" id="ziggyLoader">
@@ -64,16 +75,5 @@
         </svg>
       </div>
     </div>
-    <ModulePrefs>
-  <pref name="title" value="Getaway Shootout Game"/>
-  <pref name="description" value="Play Getaway Shootout, a thrilling multiplayer shooting game."/>
-  <pref name="author" value="Crazy Games"/>
-  <pref name="version" value="1.310"/>
-  <pref name="viewport" value="width=device-width, initial-scale=1"/>
-  <pref name="maxPlayers" value="2"/>
-  <pref name="minPlayers" value="1"/>
-  <pref name="language" value="en"/>
-  <pref name="icon" value="https://example.com/icon.png"/>
-    </ModulePrefs>
   </body>
 </website>
