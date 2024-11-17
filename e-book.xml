@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+  <head>
+    <title>Getaway Shootout Game Files - Crazy Games</title>
+    <link href="https://www.crazygames.com/game/getaway-shootout" rel="canonical"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&amp;family=Nunito:wght@400;600;700;800;900"/>
+    <meta charset="UTF-8"/>
+    <meta name="robots" content="noindex, follow"/>
+    <meta name="description" content="The game files for Getaway Shootout, a free browser game on CrazyGames.com"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Accept-CH" content="DPR"/>
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui"/>
+    <style id="ziggyLoaderStyles">
+      html {
+        width: 100%;
+        height: 100%;
+        position: relative;
+      }
+      body {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        background-color: #13141E;
+        overflow: hidden;
+      }
+      .ziggyLoader {
+        width: 100%;
+        height: 100%;
+        position: relative;
+      }
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        color: #F9FAFF;
+        font-family: 'Nunito',Arial,"Helvetica Neue",Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        position: absolute;
+        z-index: 3;
+        opacity: 0.5;
+      }
+      @keyframes bob { 
+        0% {
+          transform: translate(0px, 0px); }
+        50% {
+          transform: translate(0px, 10.5px); }
+        100% {
+          transform: translate(0px, 0px); }
+      }
+    </style>
+    <script>window.czyVariables={"countryCode":"US","device":{"os":{"name":"Mac OS","version":"10.15.7"},"browser":{"name":"Chrome","version":"130.0.0.0","major":"130"},"device":{"vendor":"Apple","model":"Macintosh"},"engine":{"name":"Blink","version":"130.0.0.0"}}};window.countryCode='US';window.device={"os":{"name":"Mac OS","version":"10.15.7"},"browser":{"name":"Chrome","version":"130.0.0.0","major":"130"},"device":{"vendor":"Apple","model":"Macintosh"},"engine":{"name":"Blink","version":"130.0.0.0"}}</script>
+  </head>
+  <body>
+    <div class="ziggyLoader" id="ziggyLoader">
+      <div class="container">
+        <svg viewBox="0 0 46 50" focusable="false" aria-hidden="true" style="display:inline-block;fill:currentcolor;height:24px;width:24px;width:46px;height:50px;-webkit-animation:bob 800ms linear infinite normal forwards;animation:bob 800ms linear infinite normal forwards;">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M39.9436 1.74993C39.685 1.46063 39.3511 1.33714 38.9704 1.33714L38.9668 1.35126C37.5519 1.35126 35.4655 3.05179 34.004 4.4348C30.9264 2.96006 27.145 2.2368 22.552 2.2368C17.959 2.2368 14.1776 2.96006 11.1036 4.43127C9.64206 3.04826 7.55563 1.34773 6.14434 1.34773C5.76009 1.34773 5.42971 1.47121 5.17116 1.76051C2.97341 4.23723 2.76513 10.1679 2.84414 13.5831C1.853 16.2504 1.35025 19.3692 1.35025 22.9325C1.35025 30.4191 3.53362 35.9653 7.83215 39.4334C10.7302 41.7655 14.5116 43.1097 19.3308 43.5119C19.1291 43.6103 18.9246 43.7083 18.7177 43.8075C18.3463 43.9855 17.9671 44.1673 17.5819 44.3621L15.8367 45.2018L14.8455 45.6781C14.5704 45.8188 14.2933 45.9551 14.013 46.0931C13.3089 46.4395 12.5847 46.7959 11.8218 47.2552L11.5597 47.3892C11.4843 47.4421 11.4161 47.5303 11.4017 47.6327C11.3658 47.8232 11.4986 48.0031 11.6926 48.0313C11.996 48.0753 12.2985 48.1241 12.6008 48.1729C13.2681 48.2806 13.935 48.3883 14.6121 48.4441L15.3483 48.5253C15.5925 48.55 15.8331 48.5711 16.0845 48.5852L17.5604 48.6664C17.7902 48.6734 18.0201 48.6734 18.2499 48.6734C19.9987 48.6734 21.7548 48.557 23.4929 48.2889C25.4608 47.996 27.3964 47.4563 29.253 46.7048C31.106 45.9533 32.8728 44.9725 34.4744 43.7835C37.6489 41.3597 40.1447 38.0998 41.6278 34.4694C42.1701 33.1534 42.5795 31.788 42.8668 30.4015C43.4557 28.1753 43.7537 25.6845 43.7537 22.9255C43.7537 19.3727 43.2546 16.2609 42.267 13.5937C42.3496 10.182 42.1449 4.23017 39.9436 1.74993ZM33.7454 2.83305C35.8857 0.927886 37.6022 0 38.9704 0C39.7712 0 40.4607 0.299887 40.9743 0.874965C43.3156 3.51044 43.7214 9.07776 43.6388 13.3785C44.6228 16.141 45.122 19.3515 45.122 22.9255C45.122 25.7585 44.8131 28.3764 44.199 30.7014C43.883 32.1973 43.4449 33.6332 42.8955 34.9633C41.3082 38.8477 38.6867 42.2594 35.3003 44.8419C33.6269 46.0838 31.7703 47.1246 29.7773 47.9325C27.7842 48.7369 25.7409 49.2979 23.7119 49.5978C21.9918 49.8659 20.1567 50 18.2571 50C18.0201 50 17.7794 50 17.5424 49.9929H17.4886L16.0126 49.9118C15.7397 49.8977 15.474 49.8765 15.2084 49.8538L13.7328 49.7414C13.1159 49.5226 12.4238 49.2805 11.7482 48.9813L11.1327 48.7008C9.9681 48.0436 8.70255 47.3582 7.36125 46.6411C5.43219 45.6628 3.41944 44.1508 1.74993 42.2882C2.10165 43.8045 2.27839 45.5913 2.27839 47.3704C2.27839 48.1416 2.37947 48.8996 2.57272 49.6344L3.1626 49.9756C3.3443 50.0724 3.56294 50.0718 3.76065 49.9818C4.34324 49.6883 4.8912 49.3599 5.418 49.0197L6.17165 48.2066L6.40841 47.8239C6.49502 47.7234 6.596 47.6322 6.68906 47.5433L7.42921 46.9978C7.91119 46.2856 8.49276 45.6049 9.13212 44.9918C9.76255 44.3848 10.5982 43.8377 11.4577 43.3556C13.2229 41.7945 15.3791 40.2204 17.9263 38.8689C20.4977 37.4919 23.5209 35.4908 25.306 32.7328C27.7992 29.4055 28.4012 26.3689 28.4952 23.4568C28.552 22.6164 28.5497 21.7866 28.4948 20.9574C28.361 19.6523 28.0505 18.4368 27.5646 17.3837C26.9569 16.2229 25.8789 15.4076 24.5959 14.8726C23.3188 14.3356 22.0231 13.9575 20.8357 13.7309C19.6497 13.5062 18.6685 13.3935 17.7138 13.3935C17.4872 13.3935 17.2644 13.3738 17.0506 13.3438C16.6266 13.2464 16.2415 13.1106 15.8412 12.9185L15.1628 12.5679C14.6049 12.2263 13.9296 11.8776 13.1741 11.5333L12.6747 11.2532L12.4072 11.0179C11.8985 10.6192 11.383 10.2479 10.8877 9.94565L10.2863 9.67699C9.36488 8.96588 8.20946 8.25189 6.99999 7.59934C5.79158 7.24806 4.55146 6.9445 3.27291 6.80618L2.13158 6.77687L1.35862 6.78458L1.39249 6.01053L1.39249 6.01053" />
+        </svg>
+      </div>
+    </div>
+  </body>
+</website>
